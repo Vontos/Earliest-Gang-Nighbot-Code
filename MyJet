@@ -1,2 +1,1 @@
-const a = ["Test ", "Test2", "Test3"];
-document.getElementById("demo").innerHTML = a;
+a = ["Test ", "Test2", "Test3"];
