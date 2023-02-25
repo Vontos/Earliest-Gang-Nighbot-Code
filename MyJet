@@ -1,4 +1,2 @@
-<script>
 const a = ["Test ", "Test2", "Test3"];
 document.getElementById("demo").innerHTML = a;
-</script>
