@@ -1,1 +1,4 @@
-a = ["Test ", "Test2", "Test3"];
+<script>
+const a = ["Test ", "Test2", "Test3"];
+document.getElementById("demo").innerHTML = myArray;
+</script>
